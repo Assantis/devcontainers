@@ -7,8 +7,7 @@ But I despised the additional json syntax from the microsoft dev-containers.
 The funny thing is: You don't need this VS-Code allows you to connect to any container.
 
 After that I was informed: "Hey I see more and more devcontainers in open source projects"
-So I decided to share my approach, and build more general version that I use as a template,
-to build the dedicated containers for my projects.
+So I decided to share my approach with a template version that I use to build the dedicated containers for my projects.
 
 I mostly use ubuntu images, but the principle applies to a lot of other images.
 
