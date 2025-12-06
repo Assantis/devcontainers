@@ -37,7 +37,7 @@ Dev Containers: Attach to Running Container...
 As this is really just a minimal example I would recommend you to choose your favorite image.
 There are some amazing projects out there that really make your setups as easy as possible.
 
-## Some love your the maintainers of these images:
+## Some love for the maintainers of these images:
 
 A ready to use flutter container with android support:
 https://github.com/cirruslabs/docker-images-flutter
