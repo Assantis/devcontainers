@@ -8,6 +8,5 @@ services:
     volumes:
       # mount your repository folder in here
       - ~/code/:/root/code/
-      # mount gitconfig and ssh config
-      # to use your own github user
+      # mount gitconfig to use your own github user
       - ~/.gitconfig:/root/.gitconfig
