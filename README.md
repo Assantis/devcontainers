@@ -39,7 +39,7 @@ There are some amazing projects out there that really make your setups as easy a
 
 ## Some love for the maintainers of these images:
 
-A ready to use flutter container with android support:
+A ready to use flutter image with android support:
 https://github.com/cirruslabs/docker-images-flutter
 
 A docker in docker image that just works:
